@@ -265,15 +265,22 @@ section:nth-of-type(4){
 }
 
 #section4div1{
-	flex:1;
+	
+	overflow: hidden;
+}
+#section4div11{
+	
 	padding:5% 5% 0% 20%;
+	margin-left: 20%;
+}
+#section4div1 img{
+	margin-left: 20%;
 }
 
 
-#section4div1 h1{
+#section4div11 h1{
 	color: #00B39B;
 	font-size: 30px;
-
 }
 
 
@@ -414,6 +421,5 @@ footer a:hover{
 
 
 
-	
 
 
